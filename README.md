@@ -1,2 +1,2 @@
 # star_repository
-This is my new repository, thank for you attention
+This is my new repository, thank for your attention
